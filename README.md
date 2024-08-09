@@ -2,7 +2,7 @@
 
 ---
 
-### Computer Science Courses Repository
+### IU Computer Science 
 
 **Degree**: Computer Science BS  
 **School**: Indiana University Bloomington  
