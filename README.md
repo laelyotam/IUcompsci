@@ -4,7 +4,7 @@
 
 ### IU Computer Science 
 
-**Degree**: Computer Science BS  
+**Degree**: Computer Science BS, Software Engineering
 **School**: Indiana University Bloomington  
 **Contact**: colema2@iu.edu  
 **Name**: Kris Yotam  
